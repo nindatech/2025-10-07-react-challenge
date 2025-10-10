@@ -24,6 +24,7 @@ export default function Home() {
           </Typography>
           <Typography variant="body1" color="text.secondary" sx={{ mb: 2 }}>
             Convert a vanilla JavaScript/HTML application to React with hooks and proper state management.
+            Includes migrating fetch API calls to TanStack Query and form validation to React Hook Form.
           </Typography>
           <Button
             variant="contained"
